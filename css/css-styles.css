@@ -72,6 +72,16 @@
     border-top: none;
 }
 
+
+a {
+    color:#fd4f07;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 table a {
     text-decoration: none;
     color: black
