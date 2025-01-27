@@ -1,10 +1,12 @@
 html {
     background-image:url('assets/star.png');
+    width:100%;
 }
 
 body {
     width:700px;
     background-color:white;
+    margin:audo;
 }
 
 * {
