@@ -1,16 +1,28 @@
-html {
-    background-image: url('https://jarsno-studios.github.io/assets/star.png');
-    width:100%;
+@media screen and (max-width:799px) {
+    body {
+        width: 100%;
+        background-color: white;
+        padding: 10px;
+        padding-bottom: 25px;
+    }
 }
 
-body {
-    width:850px;
-    background-color:white;
-    margin:auto;
-    padding:10px;
-    padding-bottom:25px;
-    border-radius:10px;
-    margin-top:10px;
+@media screen and (min-width:800px) {
+    html {
+        background-image: url('https://jarsno-studios.github.io/assets/star.png');
+        width: 100%;
+    }
+
+
+    body {
+        width: 850px;
+        background-color: white;
+        margin: auto;
+        padding: 10px;
+        padding-bottom: 25px;
+        border-radius: 10px;
+        margin-top: 10px;
+    }
 }
 
 * {
