@@ -1,9 +1,9 @@
-body {
-    background-image:url('assets/star.png');
+html {
+    background-image: url('https://jarsno-studios.github.io/assets/star.png');
     width:100%;
 }
 
-#main {
+body {
     width:700px;
     background-color:white;
     margin:auto;
