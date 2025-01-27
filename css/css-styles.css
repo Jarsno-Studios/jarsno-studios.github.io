@@ -72,7 +72,6 @@
     border-top: none;
 }
 
-
 a {
     color:#fd4f07;
     text-decoration: none;
@@ -84,7 +83,8 @@ a:hover {
 
 table a {
     text-decoration: none;
-    color: black
+    color: black;
+    margin-left:15px;
 }
 
 table a:hover {
