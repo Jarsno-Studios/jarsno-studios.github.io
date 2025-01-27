@@ -4,9 +4,13 @@ html {
 }
 
 body {
-    width:700px;
+    width:850px;
     background-color:white;
     margin:auto;
+    padding:10px;
+    padding-bottom:25px;
+    border-radius:10px;
+    margin-top:10px;
 }
 
 * {
